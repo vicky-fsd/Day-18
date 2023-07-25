@@ -1,0 +1,9 @@
+.container-fluid{
+    justify-content: center;
+}
+h5{
+    text-align: center;
+}
+.card{
+    background-color: whitesmoke;
+}
